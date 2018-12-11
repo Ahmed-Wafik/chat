@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "154299033471",
+    "firebase_url": "https://chatwithfriends-9ff13.firebaseio.com",
+    "project_id": "chatwithfriends-9ff13",
+    "storage_bucket": "chatwithfriends-9ff13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154299033471:android:6800a0d01f9d0579",
+        "android_client_info": {
+          "package_name": "com.example.chatwithfriends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154299033471-d1k9irkqr046i537q0q9rjdkq3u79eob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAng6F31AesQLoZ9MXio4eZsrpJ7vwcqJ8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
